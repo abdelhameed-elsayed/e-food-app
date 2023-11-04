@@ -1,4 +1,4 @@
-is a Multi restaurant food delivery system developed using Laravel and Flutter frameworks. Using StackFood, you can reinvent the way of food ordering and delivery system with its superb admin panel. With StackFood’s readymade and highly responsive mobile apps, you’ll get a seamless user experience for sure.
+is a Multi restaurant food delivery system developed using Flutter frameworks. Using StackFood, you can reinvent the way of food ordering and delivery system with its superb admin panel. With StackFood’s readymade and highly responsive mobile apps, you’ll get a seamless user experience for sure.
 
 
 
